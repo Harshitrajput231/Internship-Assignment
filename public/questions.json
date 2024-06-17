@@ -1,0 +1,53 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["O2", "H2O", "CO2", "NaCl"],
+      "answer": "H2O"
+    },
+    {
+      "question": "Who wrote 'Hamlet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the square root of 64?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "options": ["Yuan", "Yen", "Won", "Dollar"],
+      "answer": "Yen"
+    },
+    {
+      "question": "What is the speed of light?",
+      "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+      "answer": "300,000 km/s"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the largest mammal?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Human"],
+      "answer": "Blue Whale"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "Chloroplast"],
+      "answer": "Mitochondria"
+    }
+  ]
+  
